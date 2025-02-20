@@ -1,0 +1,8 @@
+pinecone-haystack
+haystack-ai
+python-dotenv
+pathlib 
+Flask
+
+
+-e .
