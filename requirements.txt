@@ -3,6 +3,7 @@ haystack-ai
 python-dotenv
 pathlib 
 Flask
+pypdf
 
 
 -e .
